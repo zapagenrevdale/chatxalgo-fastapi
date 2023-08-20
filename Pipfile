@@ -30,6 +30,10 @@ tomlkit = "==0.12.1"
 typing-extensions = "==4.7.1"
 uvicorn = "==0.23.2"
 wrapt = "==1.15.0"
+alembic = "*"
+python-dotenv = "*"
+databases = "*"
+sqlalchemy = "==2.0.20"
 
 [dev-packages]
 
